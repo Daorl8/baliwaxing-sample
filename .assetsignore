@@ -1,0 +1,12 @@
+.git
+.git/**
+wrangler.toml
+.assetsignore
+README.md
+CHANGELOG.md
+STRUCTURE.md
+img
+img/**
+index_*.html
+# 로고 원본 png (웹은 bl-logo.webp)
+bl-logo.png
